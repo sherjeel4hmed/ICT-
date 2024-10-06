@@ -1,0 +1,59 @@
+.main{
+    padding: 30px 100px;
+    display:flex;
+    justify-self: center;
+    flex-direction: column;
+    /* border: 1px solid gray; */
+}
+.header{
+    display: flex;
+    align-items: center;
+   flex-direction: column;
+    padding-top: 20px;
+}
+.header-img{
+    height: 80px;
+    width: 80px;
+    border-radius: 100%;
+}
+.name{
+ margin: 8px;
+}
+ul{
+    display: flex;
+    
+}
+ ul li{
+    margin: 0px 10px;
+    font-size: 12px;
+}
+.summary{
+display:flex;
+align-items: center;
+flex-direction: column; 
+padding:10px 50px ;
+}
+.experience{
+    display: flex;
+    flex-direction: column;
+    padding:10px 50px;
+}
+.h4{
+   margin: 0%;
+}
+.exper{
+ margin: 0px;
+  
+}
+.ol{
+    margin: 0px;
+}
+.education{
+    display: flex;
+    align-items: center;
+   flex-direction: column;
+    padding:10px 50px;
+    
+
+}
+
